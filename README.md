@@ -799,6 +799,7 @@ Apache 2.0 - see [LICENSE](./LICENSE)
 ## Links
 
 - [Protocol Specification](./PROTOCOL.md)
+- [Operations & Architecture Guide](./docs/operations.md)
 - [GitHub Repository](https://github.com/durable-streams/durable-streams)
 - [NPM Organization](https://www.npmjs.com/org/durable-streams)
 
