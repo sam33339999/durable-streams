@@ -1,5 +1,7 @@
 # Durable Streams — Operations & Architecture Guide
 
+> 📖 **繁體中文版**：[operations.zh-TW.md](./operations.zh-TW.md)
+
 This guide covers the internal architecture, data structures, storage mechanisms, capacity handling, and operational considerations for self-hosting Durable Streams.
 
 ---

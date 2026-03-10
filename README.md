@@ -800,6 +800,7 @@ Apache 2.0 - see [LICENSE](./LICENSE)
 
 - [Protocol Specification](./PROTOCOL.md)
 - [Operations & Architecture Guide](./docs/operations.md)
+- [運維與架構指南（繁體中文）](./docs/operations.zh-TW.md)
 - [GitHub Repository](https://github.com/durable-streams/durable-streams)
 - [NPM Organization](https://www.npmjs.com/org/durable-streams)
 
