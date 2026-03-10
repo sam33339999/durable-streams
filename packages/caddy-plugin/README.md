@@ -204,6 +204,12 @@ See [issue #143](https://github.com/durable-streams/durable-streams/issues/143) 
 - **Cursor Management**: CDN cache collision prevention
 - **Long-Poll Manager**: Efficient waiting for new messages
 
+## Further Reading
+
+- [Operations & Architecture Guide](../../docs/operations.md) — internal data structures, storage mechanisms, capacity handling, self-hosting checklist, and operational concerns.
+- [運維與架構指南（繁體中文）](../../docs/operations.zh-TW.md) — 內部資料結構、儲存機制、容量管理、自架服務清單及運維注意事項。
+- [Protocol Specification](../../PROTOCOL.md)
+
 ## License
 
 Apache-2.0
